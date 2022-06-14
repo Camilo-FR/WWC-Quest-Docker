@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>Neo and Morpheus are here !!</p>
+        <p>Neo, Morpheus and Trinity are here !!</p>
       </header>
     </div>
   );
